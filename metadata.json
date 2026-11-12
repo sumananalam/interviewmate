@@ -1,0 +1,6 @@
+{
+  "name": "InterviewMate - AI-Powered Mock Interview Platform",
+  "description": "Practice technical and HR interviews with AI evaluation, role-specific questions, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
